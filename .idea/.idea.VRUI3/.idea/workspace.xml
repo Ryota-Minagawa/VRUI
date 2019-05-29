@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="630bce63-3e4e-4ccf-9172-7db42cbed9da" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-574663961">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="1747" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="1747" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/RadioButtonItem.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+              <folding>
+                <marker date="1541072250048" expanded="true" signature="6:53" ph="..." />
+                <marker date="1541072250048" expanded="true" signature="117:712" ph="{...}" />
+                <marker date="1541072250048" expanded="true" signature="229:541" ph="{...}" />
+                <marker date="1541072250048" expanded="true" signature="278:533" ph="{...}" />
+                <marker date="1541072250048" expanded="true" signature="312:408" ph="{...}" />
+                <marker date="1541072250048" expanded="true" signature="425:523" ph="{...}" />
+                <marker date="1541072250048" expanded="true" signature="571:642" ph="{...}" />
+                <marker date="1541072250048" expanded="true" signature="669:705" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/RadioButton.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+              <folding>
+                <marker date="1541072498843" expanded="true" signature="7:46" ph="..." />
+                <marker date="1541072498843" expanded="true" signature="107:329" ph="{...}" />
+                <marker date="1541072498843" expanded="true" signature="196:226" ph="{...}" />
+                <marker date="1541072498843" expanded="true" signature="283:326" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/LongPressButton.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="53" column="55" selection-start-line="53" selection-start-column="55" selection-end-line="53" selection-end-column="55" />
+              <folding>
+                <marker date="1541067907337" expanded="false" signature="6:135" ph="..." />
+                <marker date="1541067907337" expanded="true" signature="199:1313" ph="{...}" />
+                <marker date="1541067907337" expanded="true" signature="511:648" ph="{...}" />
+                <marker date="1541067907337" expanded="true" signature="673:1122" ph="{...}" />
+                <marker date="1541067907337" expanded="true" signature="704:884" ph="{...}" />
+                <marker date="1541067907337" expanded="true" signature="891:988" ph="{...}" />
+                <marker date="1541067907337" expanded="true" signature="1053:1119" ph="{...}" />
+                <marker date="1541067907337" expanded="true" signature="1148:1185" ph="{...}" />
+                <marker date="1541067907337" expanded="true" signature="1209:1311" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/StageController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="211">
+              <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+              <folding>
+                <marker date="1541066450757" expanded="true" signature="7:41" ph="..." />
+                <marker date="1541066450757" expanded="true" signature="87:730" ph="{...}" />
+                <marker date="1541066450757" expanded="true" signature="198:728" ph="{...}" />
+                <marker date="1541066450757" expanded="true" signature="256:397" ph="{...}" />
+                <marker date="1541066450757" expanded="true" signature="327:392" ph="{...}" />
+                <marker date="1541066450757" expanded="true" signature="425:725" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/RayController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="32" column="59" selection-start-line="32" selection-start-column="59" selection-end-line="32" selection-end-column="59" />
+              <folding>
+                <marker date="1541069320869" expanded="false" signature="6:90" ph="..." />
+                <marker date="1541069320869" expanded="true" signature="134:1017" ph="{...}" />
+                <marker date="1541069320869" expanded="true" signature="250:1015" ph="{...}" />
+                <marker date="1541069320869" expanded="true" signature="413:817" ph="{...}" />
+                <marker date="1541069320869" expanded="true" signature="617:790" ph="{...}" />
+                <marker date="1541069320869" expanded="true" signature="830:1009" ph="{...}" />
+                <marker date="1541069320869" expanded="true" signature="853:939" ph="/* これ一回iselectableをキャッシュしたら二度とnullにならないような？ ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/Observer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RadioButtonItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ISelectableByRay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StageController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LongPressButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RayController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RadioButton.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/IselectableByRay.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StageController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LongPressButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RayController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RadioButtonItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RadioButton.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="411" />
+    <option name="y" value="23" />
+    <option name="width" value="977" />
+    <option name="height" value="793" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="VRUI3 (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="VRUI3 (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="VRUI3 (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="VRUI3 (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Scripts" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="630bce63-3e4e-4ccf-9172-7db42cbed9da" name="Default" comment="" />
+      <created>1540827502674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540827502674</updated>
+      <workItem from="1540827510322" duration="1085000" />
+      <workItem from="1540902492876" duration="18171000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19256000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="411" y="23" width="977" height="793" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32952926" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="PlantUML" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ISelectableByRay.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+          <folding>
+            <marker date="1540902518438" expanded="true" signature="33:78" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/Observer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="413" selection-start-line="413" selection-end-line="413" />
+          <folding>
+            <marker date="1536763357000" expanded="false" signature="6:63" ph="..." />
+            <marker date="1536763357000" expanded="true" signature="80:19260" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="115:11958" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="250:567" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="349:441" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="458:557" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="752:854" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="1098:1219" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="1515:1653" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="1717:1811" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="1902:1986" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="2070:2160" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="2271:2614" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="2370:2480" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="2497:2604" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="2725:2813" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="2864:3892" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="3137:3291" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="3332:3467" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="3382:3453" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="3517:3680" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="3594:3666" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="3720:3882" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="3797:3868" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="3954:4790" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="4181:4297" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="4338:4366" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="4416:4579" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="4493:4565" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="4618:4780" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="4695:4766" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="4873:5893" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="5138:5292" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="5333:5468" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="5383:5454" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="5518:5681" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="5595:5667" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="5721:5883" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="5798:5869" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="5988:6806" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="6197:6313" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="6354:6382" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="6432:6595" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="6509:6581" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="6634:6796" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="6711:6782" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="6879:8051" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="7241:7431" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="7472:7614" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="7522:7600" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="7664:7834" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="7741:7820" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="7874:8041" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="7951:8027" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="8112:9467" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="8591:8821" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="8862:9013" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="8912:8999" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="9063:9242" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="9140:9228" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="9281:9457" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="9358:9443" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="9537:11062" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="10123:10391" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="10432:10591" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="10482:10577" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="10641:10828" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="10718:10814" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="10868:11052" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="10945:11038" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="11144:11952" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="11276:11305" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="11355:11604" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="11389:11474" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="11513:11590" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="11663:11779" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="11827:11942" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="12010:12400" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="12094:12202" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="12294:12394" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="12454:18138" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="12535:12638" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="12732:12855" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="12976:13095" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="13209:13334" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="13475:13596" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="13729:13887" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="14055:14201" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="14362:14511" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="14707:14844" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="15016:15204" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="15421:15587" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="15797:15966" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="16221:16368" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="16574:16788" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="17048:17231" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="17484:17670" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="17977:18132" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="18171:18532" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="18458:18526" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="18568:18797" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="18838:19017" ph="{...}" />
+            <marker date="1536763357000" expanded="true" signature="19063:19258" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/RadioButtonItem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <marker date="1541072250048" expanded="true" signature="6:53" ph="..." />
+            <marker date="1541072250048" expanded="true" signature="117:712" ph="{...}" />
+            <marker date="1541072250048" expanded="true" signature="229:541" ph="{...}" />
+            <marker date="1541072250048" expanded="true" signature="278:533" ph="{...}" />
+            <marker date="1541072250048" expanded="true" signature="312:408" ph="{...}" />
+            <marker date="1541072250048" expanded="true" signature="425:523" ph="{...}" />
+            <marker date="1541072250048" expanded="true" signature="571:642" ph="{...}" />
+            <marker date="1541072250048" expanded="true" signature="669:705" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/RadioButton.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <marker date="1541072498843" expanded="true" signature="7:46" ph="..." />
+            <marker date="1541072498843" expanded="true" signature="107:329" ph="{...}" />
+            <marker date="1541072498843" expanded="true" signature="196:226" ph="{...}" />
+            <marker date="1541072498843" expanded="true" signature="283:326" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LongPressButton.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="53" column="55" selection-start-line="53" selection-start-column="55" selection-end-line="53" selection-end-column="55" />
+          <folding>
+            <marker date="1541067907337" expanded="false" signature="6:135" ph="..." />
+            <marker date="1541067907337" expanded="true" signature="199:1313" ph="{...}" />
+            <marker date="1541067907337" expanded="true" signature="511:648" ph="{...}" />
+            <marker date="1541067907337" expanded="true" signature="673:1122" ph="{...}" />
+            <marker date="1541067907337" expanded="true" signature="704:884" ph="{...}" />
+            <marker date="1541067907337" expanded="true" signature="891:988" ph="{...}" />
+            <marker date="1541067907337" expanded="true" signature="1053:1119" ph="{...}" />
+            <marker date="1541067907337" expanded="true" signature="1148:1185" ph="{...}" />
+            <marker date="1541067907337" expanded="true" signature="1209:1311" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/StageController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+          <folding>
+            <marker date="1541066450757" expanded="true" signature="7:41" ph="..." />
+            <marker date="1541066450757" expanded="true" signature="87:730" ph="{...}" />
+            <marker date="1541066450757" expanded="true" signature="198:728" ph="{...}" />
+            <marker date="1541066450757" expanded="true" signature="256:397" ph="{...}" />
+            <marker date="1541066450757" expanded="true" signature="327:392" ph="{...}" />
+            <marker date="1541066450757" expanded="true" signature="425:725" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/RayController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="32" column="59" selection-start-line="32" selection-start-column="59" selection-end-line="32" selection-end-column="59" />
+          <folding>
+            <marker date="1541069320869" expanded="false" signature="6:90" ph="..." />
+            <marker date="1541069320869" expanded="true" signature="134:1017" ph="{...}" />
+            <marker date="1541069320869" expanded="true" signature="250:1015" ph="{...}" />
+            <marker date="1541069320869" expanded="true" signature="413:817" ph="{...}" />
+            <marker date="1541069320869" expanded="true" signature="617:790" ph="{...}" />
+            <marker date="1541069320869" expanded="true" signature="830:1009" ph="{...}" />
+            <marker date="1541069320869" expanded="true" signature="853:939" ph="/* これ一回iselectableをキャッシュしたら二度とnullにならないような？ ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

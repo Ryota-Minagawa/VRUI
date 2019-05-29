@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/VRUI.unity
+  isLoaded: 1
+  isActive: 1
